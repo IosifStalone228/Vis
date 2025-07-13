@@ -70,7 +70,7 @@ To run the project locally without Docker, ensure you have Python 3.10 or higher
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/gladkykhse/jbi100-visualization-group78.git
+   git clone https://github.com/IosifStalone228/Vis.git
    ```
 
 2. **Navigate to the Project Directory**
