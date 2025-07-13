@@ -1,0 +1,12 @@
+dash
+dash-core-components
+dash-html-components
+fastparquet
+Flask
+numpy
+pandas
+plotly
+pyarrow
+numba
+plotly-resampler
+flask-caching
